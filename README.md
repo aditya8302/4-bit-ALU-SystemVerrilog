@@ -1,1 +1,1 @@
-# aditya8302-4-bit-ALU-SystemVerrilog
+#4-bit-ALU-SystemVerrilog
